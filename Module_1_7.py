@@ -19,21 +19,18 @@ b = (sum(module1['Bilbo']))
 c = (sum(module1['Steve']))
 d = (sum(module1['Khendrik']))
 f = (sum(module1['Aaron']))
-print(a,b,c,d,f)
 # Кол-во оценок каждого студента
 a1 = (len(a0))
 b1 = (len(b0))
 c1 = (len(c0))
 d1 = (len(d0))
 f1 = (len(f0))
-print (a1, b1, c1, d1, f1)
 # Средний балл каждого студента
 a2 = a/a1
 b2 = b/b1
 c2 = c/c1
 d2 = d/d1
 f2 = f/f1
-print ( a2, b2, c2, d2, f2 )
 print ( 'Jonny: ', (a2))
 print ( 'Bilbo: ', (b2))
 print ( 'Steve: ', (c2))
