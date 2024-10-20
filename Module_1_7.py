@@ -11,7 +11,7 @@ module1 = {'Jonny': (5, 3, 3, 5, 4),
 a0 = (module1.get('Jonny'))
 b0 = (module1.get('Bilbo'))
 c0 = (module1.get('Steve'))
-d0 = (modules.get('Khendrik'))
+d0 = (module1.get('Khendrik'))
 f0 = (module1.get('Aaron'))
 # Сумма всех оценок
 a = (sum(module1['Jonny']))
